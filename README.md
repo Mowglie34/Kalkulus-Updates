@@ -4,10 +4,12 @@ Kalkulus est une application desktop Windows personnelle pour suivre les ressour
 
 ## Télécharger
 
-⚠️ **Ce dépôt ne contient pas de code source** — uniquement l'installateur Windows (`.exe`), publié sur la page **[Releases](../../releases)** de ce dépôt.
+[![Télécharger la dernière version](https://img.shields.io/github/v/release/Mowglie34/Kalkulus-Updates?label=T%C3%A9l%C3%A9charger&style=for-the-badge&color=orange)](https://github.com/Mowglie34/Kalkulus-Updates/releases/latest)
 
-Si aucune version n'apparaît encore sur cette page, c'est normal : la première publication n'a pas encore été faite. Elle arrivera ici dès qu'elle sera prête — pas la peine de chercher un fichier `.exe` ailleurs sur ce dépôt, il n'y en a jamais sur la page principale, seulement dans Releases.
+👆 Clique sur ce bouton, ou va dans l'onglet **[Releases](https://github.com/Mowglie34/Kalkulus-Updates/releases)** (à droite de la page du dépôt) et télécharge le fichier `Kalkulus-Setup-X.Y.Z.exe` de la version la plus récente.
 
-Une fois installée, l'application vérifie elle-même les nouvelles versions et propose de les installer automatiquement.
+⚠️ **Ce dépôt ne contient pas de code source** — uniquement les installateurs Windows, un par version publiée dans Releases. Il n'y a jamais de fichier `.exe` sur la page principale du dépôt, seulement dans Releases.
+
+Une fois installée, l'application vérifie elle-même les nouvelles versions et propose de les installer automatiquement — plus besoin de revenir ici à chaque mise à jour.
 
 Le code source se trouve dans le dépôt privé `Kalkulus-Source`.
