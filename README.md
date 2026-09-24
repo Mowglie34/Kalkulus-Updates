@@ -2,7 +2,7 @@
 
 Application Windows pour suivre tes ressources, tes prix et tes ventes dans **Dofus**, et pour préparer tes crafts, ton Almanax et tes combats de boss.
 
-> 💡 **> Kalkulus est un outil perso, mis en public pour ceux qui veulent le tester.
+> 💡 Kalkulus est un outil perso, mis en public.
 
 ## ⬇️ Télécharger
 
@@ -45,6 +45,7 @@ Plus : plusieurs profils, taxe HDV configurable, calculatrice détachable, reche
 ## 💾 Tes données
 
 Tout reste **sur ton PC** : rien n'est envoyé nulle part. Pour changer de PC, fais une sauvegarde dans **Paramètres → Sauvegarde des données**, puis restaure-la sur le nouveau PC (au premier lancement ou dans Paramètres).
+
 ---
 
 Kalkulus est un outil de fan, gratuit, sans lien avec Ankama.
