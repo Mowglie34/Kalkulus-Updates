@@ -2,18 +2,20 @@
 
 Application Windows pour suivre tes ressources, tes prix et tes ventes dans **Dofus**, et pour préparer tes crafts, ton Almanax et tes combats de boss.
 
+> 💡 **À l'origine, Kalkulus était un outil perso** que j'ai codé pour mon propre usage. Je le rends public pour que d'autres joueurs puissent en profiter, mais il reste développé sur mon temps libre, selon mes besoins et mes envies. N'hésite pas à ouvrir une [issue](https://github.com/Mowglie34/Kalkulus-Updates/issues) si tu trouves un bug ou si tu as une idée.
+
 ## ⬇️ Télécharger
 
-[![Télécharger Kalkulus pour Windows](https://img.shields.io/github/v/release/Mowglie34/Kalkulus-Updates?label=T%C3%A9l%C3%A9charger%20pour%20Windows&style=for-the-badge&color=orange&logo=windows)](https://github.com/Mowglie34/Kalkulus-Updates/releases/latest/download/Kalkulus-Setup.exe)
+[![Dernière version de Kalkulus](https://img.shields.io/github/v/release/Mowglie34/Kalkulus-Updates?label=Derni%C3%A8re%20version&style=for-the-badge&color=orange&logo=windows)](https://github.com/Mowglie34/Kalkulus-Updates/releases/latest)
 
-👆 **Un clic sur ce bouton télécharge directement l'installateur** de la dernière version (`Kalkulus-Setup.exe`).
+👉 Clique sur le bouton pour ouvrir la **[page de la dernière version](https://github.com/Mowglie34/Kalkulus-Updates/releases/latest)**, puis télécharge `Kalkulus-Setup.exe` dans la partie **Assets** en bas de la page.
 
-Autres versions et historique : [page des releases](https://github.com/Mowglie34/Kalkulus-Updates/releases).
+Anciennes versions et historique des changements : [toutes les releases](https://github.com/Mowglie34/Kalkulus-Updates/releases).
 
 ## 🛠️ Installation
 
-1. Lance `Kalkulus-Setup.exe`.
-2. Si Windows affiche **« Windows a protégé votre ordinateur »**, clique sur **Informations complémentaires**, puis sur **Exécuter quand même**. L'application n'est pas signée (c'est payant), mais c'est bien le fichier publié ici.
+1. Télécharge `Kalkulus-Setup.exe` depuis la [dernière release](https://github.com/Mowglie34/Kalkulus-Updates/releases/latest), puis lance-le.
+2. Si Windows affiche **« Windows a protégé votre ordinateur »**, clique sur **Informations complémentaires**, puis sur **Exécuter quand même**. L'application n'est pas signée (la signature est payante), mais c'est bien le fichier publié ici.
 3. Choisis le dossier d'installation, puis lance Kalkulus.
 
 Au premier lancement, Kalkulus te propose de :
@@ -50,4 +52,4 @@ Données du jeu : [DofusDB](https://dofusdb.fr) · Almanax : [dofusdu.de](https:
 
 ---
 
-Kalkulus est un outil de fan, gratuit, sans lien avec Ankama. Dofus est une marque d'Ankama.
+Kalkulus est un outil de fan, gratuit, sans lien avec Ankama. Projet perso partagé tel quel, sans garantie.
