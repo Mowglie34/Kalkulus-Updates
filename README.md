@@ -2,19 +2,19 @@
 
 Application Windows pour suivre tes ressources, tes prix et tes ventes dans **Dofus**, et pour préparer tes crafts, ton Almanax et tes combats de boss.
 
-> 💡 **À l'origine, Kalkulus était un outil perso** que j'ai codé pour mon propre usage. Je le rends public pour que d'autres joueurs puissent en profiter, mais il reste développé sur mon temps libre, selon mes besoins et mes envies. N'hésite pas à ouvrir une [issue](https://github.com/Mowglie34/Kalkulus-Updates/issues) si tu trouves un bug ou si tu as une idée.
+> 💡 **> Kalkulus est un outil perso, mis en public pour ceux qui veulent le tester.
 
 ## ⬇️ Télécharger
 
 [![Dernière version de Kalkulus](https://img.shields.io/github/v/release/Mowglie34/Kalkulus-Updates?label=Derni%C3%A8re%20version&style=for-the-badge&color=orange&logo=windows)](https://github.com/Mowglie34/Kalkulus-Updates/releases/latest)
 
-👉 Clique sur le bouton pour ouvrir la **[page de la dernière version](https://github.com/Mowglie34/Kalkulus-Updates/releases/latest)**, puis télécharge `Kalkulus-Setup.exe` dans la partie **Assets** en bas de la page.
+Le bouton ouvre la page de la dernière version : télécharge `Kalkulus-Setup.exe` dans la partie **Assets**, en bas de la page.
 
 Anciennes versions et historique des changements : [toutes les releases](https://github.com/Mowglie34/Kalkulus-Updates/releases).
 
 ## 🛠️ Installation
 
-1. Télécharge `Kalkulus-Setup.exe` depuis la [dernière release](https://github.com/Mowglie34/Kalkulus-Updates/releases/latest), puis lance-le.
+1. Lance `Kalkulus-Setup.exe`.
 2. Si Windows affiche **« Windows a protégé votre ordinateur »**, clique sur **Informations complémentaires**, puis sur **Exécuter quand même**. L'application n'est pas signée (la signature est payante), mais c'est bien le fichier publié ici.
 3. Choisis le dossier d'installation, puis lance Kalkulus.
 
@@ -36,8 +36,8 @@ Rien à faire : Kalkulus vérifie les mises à jour à chaque démarrage et te p
 | 💰 **Ventes** | Ventes individuelles, vue par jour ou par objet, import / export CSV |
 | 🛠️ **Craft** | Coût des ressources, prix de vente minimum, rentabilité, crafts sauvegardés en dossiers |
 | 🗓️ **Almanax** | Offrandes à venir (30 jours, 90 jours ou tout ce qui est connu) et liste des offrandes à préparer |
-| 🧰 **Outils** | Pack Métiers, XP Familiers, Quêtes répétables, Bestiaire |
 | 👹 **Bestiaire** | Fiches des boss, archimonstres, avis de recherche et protecteurs : stats, résistances, sorts et conseils pour les battre, consultables même sans internet |
+| 🧰 **Outils** | Pack Métiers, XP Familiers, Quêtes répétables |
 | 🔀 **Comparer** | Comparaison de tes profils / serveurs |
 
 Plus : plusieurs profils, taxe HDV configurable, calculatrice détachable, recherche rapide (Ctrl+K), thème clair / sombre, sauvegarde et restauration de tes données.
@@ -45,11 +45,6 @@ Plus : plusieurs profils, taxe HDV configurable, calculatrice détachable, reche
 ## 💾 Tes données
 
 Tout reste **sur ton PC** : rien n'est envoyé nulle part. Pour changer de PC, fais une sauvegarde dans **Paramètres → Sauvegarde des données**, puis restaure-la sur le nouveau PC (au premier lancement ou dans Paramètres).
-
-## 📚 Sources
-
-Données du jeu : [DofusDB](https://dofusdb.fr) · Almanax : [dofusdu.de](https://dofusdu.de) · Conseils de combat : [Huzounet](https://huzounet.fr) et [Dofus pour les Noobs](https://www.dofuspourlesnoobs.com), avec un lien vers chaque page d'origine.
-
 ---
 
-Kalkulus est un outil de fan, gratuit, sans lien avec Ankama. Projet perso partagé tel quel, sans garantie.
+Kalkulus est un outil de fan, gratuit, sans lien avec Ankama.
