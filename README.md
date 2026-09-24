@@ -34,9 +34,9 @@ Rien à faire : Kalkulus vérifie les mises à jour à chaque démarrage et te p
 | 📦 **Objets** | Tout le catalogue du jeu, prix de référence par profil avec historique et graphique |
 | 📥 **Lots** | Achats et reventes par paquets à l'HDV, stock restant, taxe déduite |
 | 💰 **Ventes** | Ventes individuelles, vue par jour ou par objet, import / export CSV |
-| 🛠️ **Craft** | Coût des ressources, prix de vente minimum, rentabilité, crafts sauvegardés en dossiers |
+| 🛠️ **Craft** | Coût des ressources, quantité à fabriquer, prix de vente minimum, rentabilité, crafts sauvegardés en dossiers |
 | 👹 **Bestiaire** | Fiches des boss, archimonstres, avis de recherche et protecteurs : stats, résistances, sorts et conseils pour les battre, consultables même sans internet |
-| 🧰 **Outils** | Almanax (offrandes à venir sur 30 jours, 90 jours ou tout ce qui est connu, et offrandes à préparer), Pack Métiers, XP Familiers, Quêtes répétables |
+| 🧰 **Outils** | Almanax (offrandes à venir sur 30 jours, 90 jours ou tout ce qui est connu, jours passés masquables), Pack Métiers, XP Familiers, Quêtes répétables |
 | 🔀 **Comparer** | Comparaison de tes profils / serveurs |
 
 Plus : plusieurs profils, taxe HDV configurable, calculatrice détachable, recherche rapide (Ctrl+K), thème clair / sombre, sauvegarde et restauration de tes données.
