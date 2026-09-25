@@ -31,15 +31,16 @@ Rien à faire : Kalkulus vérifie les mises à jour à chaque démarrage et te p
 | | |
 |---|---|
 | 📊 **Tableau de bord** | Profit dans le temps, répartition par catégorie, objectif de kamas, Almanax du jour, lots qui stagnent, rapport PDF |
-| 📦 **Objets** | Tout le catalogue du jeu, prix de référence par profil avec historique et graphique |
+| 📦 **Objets** | Tout le catalogue du jeu (mis à jour en un clic), prix de référence par profil, prix des lots x1 / x10 / x100 / x1000 et historique |
+| 📸 **Capture HDV** | Une capture d'écran de l'HDV (Win+Shift+S puis Ctrl+V) suffit : noms et prix des lots sont lus automatiquement, directement sur ton PC |
 | 📥 **Lots** | Achats et reventes par paquets à l'HDV, stock restant, taxe déduite |
 | 💰 **Ventes** | Ventes individuelles, vue par jour ou par objet, import / export CSV |
 | 🛠️ **Craft** | Coût des ressources, quantité à fabriquer, prix de vente minimum, rentabilité, crafts sauvegardés en dossiers |
 | 👹 **Bestiaire** | Fiches des boss, archimonstres, avis de recherche et protecteurs : stats, résistances, sorts et conseils pour les battre, consultables même sans internet |
-| 🧰 **Outils** | Almanax (offrandes à venir sur 30 jours, 90 jours ou tout ce qui est connu, jours passés masquables), Pack Métiers, XP Familiers, Quêtes répétables |
+| 🧰 **Outils** | Almanax (offrandes à venir sur 30 jours, 90 jours ou tout ce qui est connu, jours passés masquables), Pack Métiers, XP Familiers, Quêtes répétables, Capture HDV, Guide Mineur (parcours 1 → 200 avec les /travel), Liens utiles |
 | 🔀 **Comparer** | Comparaison de tes profils / serveurs |
 
-Plus : plusieurs profils, taxe HDV configurable, calculatrice détachable, recherche rapide (Ctrl+K), thème clair / sombre, sauvegarde et restauration de tes données.
+Plus : plusieurs profils, taxe HDV configurable, calculatrice détachable, fenêtre « Toujours visible » par-dessus le jeu, onglets à ranger dans l'ordre que tu veux, thème clair / sombre, sauvegarde et restauration de tes données.
 
 ## 💾 Tes données
 
