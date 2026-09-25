@@ -37,7 +37,7 @@ Rien à faire : Kalkulus vérifie les mises à jour à chaque démarrage et te p
 | 💰 **Ventes** | Ventes individuelles, vue par jour ou par objet, import / export CSV |
 | 🛠️ **Craft** | Coût des ressources, quantité à fabriquer, prix de vente minimum, rentabilité, crafts sauvegardés en dossiers |
 | 👹 **Bestiaire** | Fiches des boss, archimonstres, avis de recherche et protecteurs : stats, résistances, sorts et conseils pour les battre, consultables même sans internet |
-| 🧰 **Outils** | Almanax (offrandes à venir sur 30 jours, 90 jours ou tout ce qui est connu, jours passés masquables), Pack Métiers, XP Familiers, Quêtes répétables, Capture HDV, Guide Mineur (parcours 1 → 200 avec les /travel), Liens utiles |
+| 🧰 **Outils** | Almanax (offrandes à venir sur 30 jours, 90 jours ou tout ce qui est connu, jours passés masquables), Pack Métiers, XP Familiers, Quêtes répétables, Capture HDV, Guide Mineur (parcours 1 → 200 avec les /travel), Chasse au trésor et Carte des ressources (DofusDB, à activer quand tu en as besoin), Liens utiles |
 | 🔀 **Comparer** | Comparaison de tes profils / serveurs |
 
 Plus : plusieurs profils, taxe HDV configurable, calculatrice détachable, fenêtre « Toujours visible » par-dessus le jeu, onglets à ranger dans l'ordre que tu veux, thème clair / sombre, sauvegarde et restauration de tes données.
